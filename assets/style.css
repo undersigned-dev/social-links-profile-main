@@ -29,10 +29,9 @@ main {
 h1 {
   font-size: 1.8rem;
   font-weight: 700;
-  margin-bottom:0;
+  margin-bottom:.3rem;
 }
 .location {
-  margin-top: 1rem;
   color: hsl(75, 94%, 57%);
 }
 .social-card {
