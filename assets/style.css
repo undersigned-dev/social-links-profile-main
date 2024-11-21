@@ -29,7 +29,6 @@ main {
 h1 {
   font-size: 1.8rem;
   font-weight: 700;
-  margin-bottom:.3rem;
 }
 .location {
   color: hsl(75, 94%, 57%);
