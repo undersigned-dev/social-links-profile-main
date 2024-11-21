@@ -29,6 +29,7 @@ main {
 h1 {
   font-size: 1.8rem;
   font-weight: 700;
+  margin-bottom:0;
 }
 .location {
   margin-top: 0.2rem;
